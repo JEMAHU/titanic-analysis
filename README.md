@@ -6,6 +6,7 @@
 Proyecto de análisis predictivo que determina la supervivencia de pasajeros del Titanic usando Machine Learning.
 
 ## 🏗️ Estructura del Proyecto
+![image](https://github.com/user-attachments/assets/e179d66e-380f-4e42-9a60-179ff6162b6d)
 
 ## 🚀 Cómo Ejecutar
 1. **Clonar repositorio**:
